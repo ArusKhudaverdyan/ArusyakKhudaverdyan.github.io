@@ -1,0 +1,22 @@
+body{ border: 10px solid transparent;
+    padding: 20px;
+        background-color: #ffe6ff;}
+h1{text-align: center; font-style: red serif}
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse; border-style: dotted;}
+    th, td {
+    padding: 15px;
+}
+.ord{color: rgb(255, 26, 26);
+ }
+ul{background: rgb(255, 51, 51);}
+#p2{font-style: monospace; font-size: 30px; }
+#left{float: left;
+width: 80%;
+height: 80px;
+background-color:  #ff00ff}
+#right{float: right;
+width: 20%;
+height: 80px;
+background-color: #800080}
